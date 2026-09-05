@@ -1,0 +1,4 @@
+node_modules/
+.env
+*.json
+laasa-cafe-firebase-adminsdk-fbsvc-35c289968e.json
